@@ -1,0 +1,15 @@
+D:\.NET Repo\Day5\Assigment 4 part 2\bin\Debug\net6.0\Assigment 4 part 2.exe
+D:\.NET Repo\Day5\Assigment 4 part 2\bin\Debug\net6.0\Assigment 4 part 2.deps.json
+D:\.NET Repo\Day5\Assigment 4 part 2\bin\Debug\net6.0\Assigment 4 part 2.runtimeconfig.json
+D:\.NET Repo\Day5\Assigment 4 part 2\bin\Debug\net6.0\Assigment 4 part 2.dll
+D:\.NET Repo\Day5\Assigment 4 part 2\bin\Debug\net6.0\Assigment 4 part 2.pdb
+D:\.NET Repo\Day5\Assigment 4 part 2\obj\Debug\net6.0\Assigment 4 part 2.csproj.AssemblyReference.cache
+D:\.NET Repo\Day5\Assigment 4 part 2\obj\Debug\net6.0\Assigment 4 part 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Repo\Day5\Assigment 4 part 2\obj\Debug\net6.0\Assigment 4 part 2.AssemblyInfoInputs.cache
+D:\.NET Repo\Day5\Assigment 4 part 2\obj\Debug\net6.0\Assigment 4 part 2.AssemblyInfo.cs
+D:\.NET Repo\Day5\Assigment 4 part 2\obj\Debug\net6.0\Assigment 4 part 2.csproj.CoreCompileInputs.cache
+D:\.NET Repo\Day5\Assigment 4 part 2\obj\Debug\net6.0\Assigment 4 part 2.dll
+D:\.NET Repo\Day5\Assigment 4 part 2\obj\Debug\net6.0\refint\Assigment 4 part 2.dll
+D:\.NET Repo\Day5\Assigment 4 part 2\obj\Debug\net6.0\Assigment 4 part 2.pdb
+D:\.NET Repo\Day5\Assigment 4 part 2\obj\Debug\net6.0\Assigment 4 part 2.genruntimeconfig.cache
+D:\.NET Repo\Day5\Assigment 4 part 2\obj\Debug\net6.0\ref\Assigment 4 part 2.dll

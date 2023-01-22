@@ -1,0 +1,15 @@
+D:\.NET Repo\Day2\OptimizedAssigment1and2\obj\Debug\net6.0\OptimizedAssigment1and2.csproj.AssemblyReference.cache
+D:\.NET Repo\Day2\OptimizedAssigment1and2\obj\Debug\net6.0\OptimizedAssigment1and2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Repo\Day2\OptimizedAssigment1and2\obj\Debug\net6.0\OptimizedAssigment1and2.AssemblyInfoInputs.cache
+D:\.NET Repo\Day2\OptimizedAssigment1and2\obj\Debug\net6.0\OptimizedAssigment1and2.AssemblyInfo.cs
+D:\.NET Repo\Day2\OptimizedAssigment1and2\obj\Debug\net6.0\OptimizedAssigment1and2.csproj.CoreCompileInputs.cache
+D:\.NET Repo\Day2\OptimizedAssigment1and2\bin\Debug\net6.0\OptimizedAssigment1and2.exe
+D:\.NET Repo\Day2\OptimizedAssigment1and2\bin\Debug\net6.0\OptimizedAssigment1and2.deps.json
+D:\.NET Repo\Day2\OptimizedAssigment1and2\bin\Debug\net6.0\OptimizedAssigment1and2.runtimeconfig.json
+D:\.NET Repo\Day2\OptimizedAssigment1and2\bin\Debug\net6.0\OptimizedAssigment1and2.dll
+D:\.NET Repo\Day2\OptimizedAssigment1and2\bin\Debug\net6.0\OptimizedAssigment1and2.pdb
+D:\.NET Repo\Day2\OptimizedAssigment1and2\obj\Debug\net6.0\OptimizedAssigment1and2.dll
+D:\.NET Repo\Day2\OptimizedAssigment1and2\obj\Debug\net6.0\refint\OptimizedAssigment1and2.dll
+D:\.NET Repo\Day2\OptimizedAssigment1and2\obj\Debug\net6.0\OptimizedAssigment1and2.pdb
+D:\.NET Repo\Day2\OptimizedAssigment1and2\obj\Debug\net6.0\OptimizedAssigment1and2.genruntimeconfig.cache
+D:\.NET Repo\Day2\OptimizedAssigment1and2\obj\Debug\net6.0\ref\OptimizedAssigment1and2.dll

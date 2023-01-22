@@ -1,0 +1,15 @@
+D:\.NET Repo\Day1\ClassBasics\bin\Debug\net6.0\ClassBasics.exe
+D:\.NET Repo\Day1\ClassBasics\bin\Debug\net6.0\ClassBasics.deps.json
+D:\.NET Repo\Day1\ClassBasics\bin\Debug\net6.0\ClassBasics.runtimeconfig.json
+D:\.NET Repo\Day1\ClassBasics\bin\Debug\net6.0\ClassBasics.dll
+D:\.NET Repo\Day1\ClassBasics\bin\Debug\net6.0\ClassBasics.pdb
+D:\.NET Repo\Day1\ClassBasics\obj\Debug\net6.0\ClassBasics.csproj.AssemblyReference.cache
+D:\.NET Repo\Day1\ClassBasics\obj\Debug\net6.0\ClassBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Repo\Day1\ClassBasics\obj\Debug\net6.0\ClassBasics.AssemblyInfoInputs.cache
+D:\.NET Repo\Day1\ClassBasics\obj\Debug\net6.0\ClassBasics.AssemblyInfo.cs
+D:\.NET Repo\Day1\ClassBasics\obj\Debug\net6.0\ClassBasics.csproj.CoreCompileInputs.cache
+D:\.NET Repo\Day1\ClassBasics\obj\Debug\net6.0\ClassBasics.dll
+D:\.NET Repo\Day1\ClassBasics\obj\Debug\net6.0\refint\ClassBasics.dll
+D:\.NET Repo\Day1\ClassBasics\obj\Debug\net6.0\ClassBasics.pdb
+D:\.NET Repo\Day1\ClassBasics\obj\Debug\net6.0\ClassBasics.genruntimeconfig.cache
+D:\.NET Repo\Day1\ClassBasics\obj\Debug\net6.0\ref\ClassBasics.dll

@@ -1,0 +1,15 @@
+D:\.NET Repo\Day2\Employee\bin\Debug\net6.0\Employee.exe
+D:\.NET Repo\Day2\Employee\bin\Debug\net6.0\Employee.deps.json
+D:\.NET Repo\Day2\Employee\bin\Debug\net6.0\Employee.runtimeconfig.json
+D:\.NET Repo\Day2\Employee\bin\Debug\net6.0\Employee.dll
+D:\.NET Repo\Day2\Employee\bin\Debug\net6.0\Employee.pdb
+D:\.NET Repo\Day2\Employee\obj\Debug\net6.0\Employee.csproj.AssemblyReference.cache
+D:\.NET Repo\Day2\Employee\obj\Debug\net6.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Repo\Day2\Employee\obj\Debug\net6.0\Employee.AssemblyInfoInputs.cache
+D:\.NET Repo\Day2\Employee\obj\Debug\net6.0\Employee.AssemblyInfo.cs
+D:\.NET Repo\Day2\Employee\obj\Debug\net6.0\Employee.csproj.CoreCompileInputs.cache
+D:\.NET Repo\Day2\Employee\obj\Debug\net6.0\Employee.dll
+D:\.NET Repo\Day2\Employee\obj\Debug\net6.0\refint\Employee.dll
+D:\.NET Repo\Day2\Employee\obj\Debug\net6.0\Employee.pdb
+D:\.NET Repo\Day2\Employee\obj\Debug\net6.0\Employee.genruntimeconfig.cache
+D:\.NET Repo\Day2\Employee\obj\Debug\net6.0\ref\Employee.dll
